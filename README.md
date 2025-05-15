@@ -10,11 +10,12 @@ This project contains UI and API test cases written in Playwright using JavaScri
 ## Prerequisites
 - Node.js >= 16
 - npm
+- Visual Studio Code
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/playwright-demoqa-tests.git
-cd playwright-demoqa-tests
+git clone https://github.com/rohits06oct/playwright-demoqa-tests-covergo.git
+cd playwright-demoqa-tests-covergo
 fnm env --use-on-cd | Out-String | Invoke-Expression
 npm install
 npx playwright install
